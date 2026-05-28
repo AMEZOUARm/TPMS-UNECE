@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584209020 source:c:\users\pc hp\desktop\tpms-unece\tpms_project\tpms\main.c
+	<stdio.h>
+	<stdlib.h>
+
